@@ -25,4 +25,8 @@ class Animal
   def name=(value)
     @name = value
   end
+
+  def speak
+    "grrrr"
+  end
 end
