@@ -1,1 +1,33 @@
+# Challenge Instructions:
+# Alice and Bob each created one problem for HackerRank. They were rated on a scale from 1 to 100 for three categories: problem clarity, originality, and difficulty.
+# The task is to find their comparison points by comparing a[0] with b[0], a[1] with b[1], and a[2] with b[2].
+# If a[i] > b[i], then Alice is awarded 1 point.
+# If a[i] < b[i], then Bob is awarded 1 point.
+# If a[i] = b[i], then neither person receives a point.
+# Comparison points are the total points a person earned.
 
+# Solution:
+def compare_triplets(a, b)
+  alice_score = 0
+  bob_score = 0
+
+  # Compare the elements of a and b one by one using a for loop
+  for i in 0...a.length
+    if a[i] > b[i]
+      alice_score += 1
+    elsif a[i] < b[i]
+      bob_score += 1
+    end
+  end
+
+  [alice_score, bob_score]
+end
+
+# Example usage:
+result1 = compareTriplets([5, 6, 7], [3, 6, 10])
+puts result1.inspect
+# Output: [1, 1]
+
+result2 = compareTriplets([17, 28, 30], [99, 16, 8])
+puts result2.inspect
+# Output: [2, 1]
