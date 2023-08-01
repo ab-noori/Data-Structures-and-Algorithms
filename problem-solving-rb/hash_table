@@ -1,1 +1,27 @@
+def hash_table(arr)
+  # Step 1: Create an empty Hash Table (array of arrays) with a length of 11
+  table = Array.new(11) { [] }
 
+  # Step 2: Loop through each element in the input array 'arr'
+  arr.each do |num|
+
+    # Step 3: Calculate the absolute value of the current element
+    num = num.abs
+
+    # Step 4: Calculate the index where the current element should be stored
+    index = num % 11
+
+    # Step 5: Push the current element to the corresponding index in the Hash Table
+    table[index] << num
+  end
+
+  # Step 6: Flatten the Hash Table and return the final array
+  table.flatten
+end
+
+# Example usage:
+puts hash_table([12, 24, 125, 5, 91, 1106, 2, 1021, 29, 3536, 10])
+# => [12, 24, 2, 91, 125, 5, 3536, 1106, 29, 1021, 10]
+
+puts hash_table([2, 341, 73, 8265, 234004, 602, 7400000, 200000000])
+# => [341, 234004, 2, 200000000, 7400000, 8265, 73, 602]
