@@ -3,7 +3,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
 
 ## Algorithms:
   - 🛠 Ruby problem solving
-    - [Tech Stack](#tech-stack)
+    - [Graph](./problem-solving-js/graph.js)
     - [Key Features](#key-features)
   - 🛠 JavaScript problem solving
     - [Tech Stack](#tech-stack)
