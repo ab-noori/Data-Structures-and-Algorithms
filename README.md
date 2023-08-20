@@ -6,5 +6,5 @@ This repository features daily solutions for Algorithm and Data Structure proble
     - [Graph](./problem-solving-js/graph.js)
     - [Key Features](#key-features)
   - 🛠 JavaScript problem solving
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+    - [Graph](./problem-solving-js/graph.js)
+    - [Hash Table](./problem-solving-js/hashTable.js)
