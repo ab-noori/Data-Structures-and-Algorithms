@@ -6,4 +6,5 @@ This repository features daily solutions for Algorithm and Data Structure proble
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - 🛠 JavaScript problem solving
-  
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
