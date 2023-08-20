@@ -8,3 +8,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
   - 🛠 JavaScript problem solving
     - [Graph](./problem-solving-js/graph.js)
     - [Hash Table](./problem-solving-js/hashTable.js)
+    - [Graph](./)
+    - [Hash Table](./)
+    - [Graph](./)
+    - [Hash Table](./)
