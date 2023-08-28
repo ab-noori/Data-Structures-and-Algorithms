@@ -9,6 +9,5 @@ This repository features daily solutions for Algorithm and Data Structure proble
     - [Graph](./problem-solving-js/graph.js)
     - [Hash Table](./problem-solving-js/hashTable.js)
     - [Compare Triplets](./)
-    - [Hash Table](./)
-    - [Graph](./)
-    - [Hash Table](./)
+    - [Array of Array Products](./)
+    - [Is it a binary tree](./)
