@@ -8,6 +8,6 @@ This repository features daily solutions for Algorithm and Data Structure proble
   - 🛠 JavaScript problem solving
     - [Graph](./problem-solving-js/graph.js)
     - [Hash Table](./problem-solving-js/hashTable.js)
-    - [Compare Triplets](./)
-    - [Array of Array Products](./)
+    - [Compare Triplets](./problem-solving-js/compareTriplets.js)
     - [Is it a binary tree](./)
+    - [Array of Array Products](./)
