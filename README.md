@@ -3,6 +3,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
 
 ## Algorithms & Data Structures:
 ### 📗 Ruby
+
 - 🏹 Practice
 - 🛠 Problem solving
   - [Graph](./problem-solving-rb/graph.rb)
@@ -12,6 +13,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
   - [Array of Array Products](./problem-solving-rb/array_of_array_products.rb)
 
 ### 📘 JavaScript
+
 - 🏹 Practice
 - 🛠  Problem solving
   - [Graph](./problem-solving-js/graph.js)
