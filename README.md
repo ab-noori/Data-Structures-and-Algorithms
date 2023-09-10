@@ -4,7 +4,6 @@ This repository features daily solutions for Algorithm and Data Structure proble
 ## Algorithms & Data Structures:
 ### 📗 Ruby
 - 🏹 Practice
-  - 
 - 🛠 Problem solving
   - [Graph](./problem-solving-rb/graph.rb)
   - [Hash Table](./problem-solving-rb/hash_table)
@@ -14,7 +13,6 @@ This repository features daily solutions for Algorithm and Data Structure proble
 
 ### 📘 JavaScript
 - 🏹 Practice
-  -
 - 🛠  Problem solving
   - [Graph](./problem-solving-js/graph.js)
   - [Hash Table](./problem-solving-js/hashTable.js)
