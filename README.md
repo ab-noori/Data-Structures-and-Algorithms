@@ -6,7 +6,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
     - [Graph](./)
     - [Hash Table](./)
     - [Is it a binary tree](./)
-    - [Compare Triplets](./)
+    - [Compare Triplets](./problem-solving-rb/compare_triplets)
     - [Array of Array Products](./problem-solving-rb/array_of_array_products.rb)
 
   - 🛠 JavaScript problem solving
