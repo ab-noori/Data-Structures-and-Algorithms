@@ -4,7 +4,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
 ## Algorithms:
   - 🛠 Ruby problem solving
     - [Graph](./problem-solving-rb/graph.rb)
-    - [Hash Table](./)
+    - [Hash Table](./problem-solving-rb/hash_table)
     - [Is it a binary tree](./)
     - [Compare Triplets](./problem-solving-rb/compare_triplets)
     - [Array of Array Products](./problem-solving-rb/array_of_array_products.rb)
