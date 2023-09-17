@@ -5,6 +5,9 @@ This repository features daily solutions for Algorithm and Data Structure proble
 ### 📗 Ruby
 
 - 🏹 Practice
+  - 1
+  - 2
+  - 3
 - 🛠 Problem solving
   - [Graph](./problem-solving-rb/graph.rb)
   - [Hash Table](./problem-solving-rb/hash_table)
