@@ -18,9 +18,7 @@ This repository features daily solutions for Algorithm and Data Structure proble
 ### 📘 JavaScript
 
 - 🏹 Practice
-  - 1
-  - 2
-  - 3
+  - [Linked List](practice-js/linked-list/LinkedList.js)
 - 🛠  Problem solving
   - [Graph](./problem-solving-js/graph.js)
   - [Hash Table](./problem-solving-js/hashTable.js)

@@ -1,5 +1,5 @@
 class Node {
-    constructor(data, next = null){
+    constructor(data, next = null) {
         this.data = data;
         this.next = next;
     }
@@ -12,7 +12,7 @@ class LinkedList {
     }
 
     // Insert firt node
-    insertFirst(data){
+    insertFirst(data) {
         this.head = new Node(data, this.head);
         this.size++;
     }
@@ -23,12 +23,12 @@ class LinkedList {
         let current;
 
         // if empty, make head
-        if(!this.head){
+        if (!this.head) {
             this.head = node;
         } else {
             current = this.head;
 
-            while(current.next){
+            while (current.next) {
                 current = current.next;
             }
 
@@ -40,12 +40,12 @@ class LinkedList {
 
     // Insert at index
     insertAt(data, index) {
-        if(index > 0 && index > this.size) {
+        if (index > 0 && index > this.size) {
             return;
         }
 
         // if index is first index
-        if(index === 0){
+        if (index === 0) {
             this.head = new Node(data, this.head);
             return;
         }
@@ -58,7 +58,7 @@ class LinkedList {
 
         let count = 0;
 
-        while(count < index) {
+        while (count < index) {
             previous = current; // Node before the index
             count++;
             current = current.next; // Node after the index
@@ -75,8 +75,8 @@ class LinkedList {
         let current = this.head;
         let count = 0;
 
-        while(current) {
-            if(count === index) {
+        while (current) {
+            if(count == index){
                 console.log(current.data);
             }
 
@@ -84,9 +84,9 @@ class LinkedList {
             current = current.next;
         }
 
-        return;
+        return null;
     }
-    
+
     // Remove at index
 
     // Clear list
@@ -95,7 +95,7 @@ class LinkedList {
     PrintListData() {
         let current = this.head;
 
-        while(current) {
+        while (current) {
             console.log(current.data)
             current = current.next;
         }
