@@ -71,7 +71,22 @@ class LinkedList {
     }
 
     // Get at index
+    gitAt(index) {
+        let current = this.head;
+        let count = 0;
 
+        while(current) {
+            if(count === index) {
+                console.log(current.data);
+            }
+
+            count++;
+            current = current.next;
+        }
+
+        return;
+    }
+    
     // Remove at index
 
     // Clear list
