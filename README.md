@@ -26,9 +26,8 @@ This repository features daily solutions for Algorithm and Data Structure proble
       <ul>
         <li><a href="./problem-solving-js/graph.js">Solution</a></li>
         <li>
-          | Project Login Page |
-          | ----------------------------------|
-          | <img alt="Finance-Tracker login" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/> |
+          Longest Common Prefix
+          <img alt="Finance-Tracker login" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/>
         </li>
       </ul>
     </details>
