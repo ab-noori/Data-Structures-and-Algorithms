@@ -21,6 +21,17 @@ This repository features daily solutions for Algorithm and Data Structure proble
   - [Linked List](practice-js/linked-list/LinkedList.js)
 - 🛠  Problem solving
   - [Graph](./problem-solving-js/graph.js)
+  - <details>
+      <summary>Longest Common Prefix</summary>
+      <ul>
+        <li><a href="./problem-solving-js/graph.js">Solution</a></li>
+        <li>
+          | Project Login Page |
+          | ----------------------------------|
+          | <img alt="Finance-Tracker login" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/> |
+        </li>
+      </ul>
+    </details>
   - [Hash Table](./problem-solving-js/hashTable.js)
   - [Is it a binary tree](./problem-solving-js/is-it-a-binary-search-tree.js)
   - [Compare Triplets](./problem-solving-js/compareTriplets.js)
