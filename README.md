@@ -23,13 +23,11 @@ This repository features daily solutions for Algorithm and Data Structure proble
   - [Graph](./problem-solving-js/graph.js)
   - <details>
       <summary>Longest Common Prefix</summary>
-      <ul>
-        <li><a href="./problem-solving-js/graph.js">Solution</a></li>
-        <li>
-          ## 🔆Description
-          <img alt="Longest Common Prefix" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/>
-        </li>
-      </ul>
+      <a href="./problem-solving-js/graph.js">Solution</a>
+      <details>
+        <summary>Description</summary>
+        <img alt="Longest Common Prefix" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/>
+      </details>
     </details>
   - [Hash Table](./problem-solving-js/hashTable.js)
   - [Is it a binary tree](./problem-solving-js/is-it-a-binary-search-tree.js)
