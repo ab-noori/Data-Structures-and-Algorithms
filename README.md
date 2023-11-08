@@ -21,6 +21,10 @@ This repository features daily solutions for Algorithm and Data Structure proble
   - [Linked List](practice-js/linked-list/LinkedList.js)
 - 🛠  Problem solving
   - [Graph](./problem-solving-js/graph.js)
+  - [Hash Table](./problem-solving-js/hashTable.js)
+  - [Is it a binary tree](./problem-solving-js/is-it-a-binary-search-tree.js)
+  - [Compare Triplets](./problem-solving-js/compareTriplets.js)
+  - [Array of Array Products](./problem-solving-js/arrayOfArrayProducts.js)
   - <details>
       <summary>Longest Common Prefix</summary>
       <a href="./problem-solving-js/longestCommonPrefix.js">Solution</a>
@@ -29,7 +33,3 @@ This repository features daily solutions for Algorithm and Data Structure proble
         <img alt="Longest Common Prefix" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/>
       </details>
     </details>
-  - [Hash Table](./problem-solving-js/hashTable.js)
-  - [Is it a binary tree](./problem-solving-js/is-it-a-binary-search-tree.js)
-  - [Compare Triplets](./problem-solving-js/compareTriplets.js)
-  - [Array of Array Products](./problem-solving-js/arrayOfArrayProducts.js)
