@@ -33,3 +33,11 @@ This repository features daily solutions for Algorithm and Data Structure proble
         <img alt="Longest Common Prefix" src="./problem-solving-js/Longest Common Prefix.PNG" width="auto"/>
       </details>
     </details>
+  - <details>
+      <summary>Unique Number of Occurrences</summary>
+      <a href="./problem-solving-js/uniqueOccurrences.js">Solution</a>
+      <details>
+        <summary>Description</summary>
+        <img alt="Longest Common Prefix" src="./problem-solving-js/Unique Number of Occurrences.PNG" width="auto"/>
+      </details>
+    </details>
